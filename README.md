@@ -1,2 +1,1 @@
-# Programming-competitions
- Репозиторий с моими решениями с различных онлайн соревнований
+# Мои результаты и решения на онлайн соревнованияхПрошедшие мероприятия:<ul><li> <a href="https://github.com/immortalBan/Programming-competitions/tree/main/Startup%20Village%20mini-cup"> Startup Village mini-cup </a>  (44 / 176)</li></ul>
